@@ -1,2 +1,2 @@
-# keras-playground
-keras,machine learning,python,neural networks
+# ml-playground
+machine learning,python,keras,tensorflow,neural networks
